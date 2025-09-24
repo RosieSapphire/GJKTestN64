@@ -3,4 +3,5 @@ build/
 filesystem/
 
 # files
-*.z64
+gjk-test.z64
+tools/gltf-to-coldat/gltf-to-coldat
