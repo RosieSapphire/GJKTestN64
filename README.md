@@ -1,0 +1,2 @@
+# GJK Test for N64
+My attempt at implementing the GJK algorythm efficiently on the Nintendo 64. This is probably not gonna be the most well-written implementation, but if it works, it works. lol I'll probably periodically rip the code from here to import into new projects, and if I eventually write documentation for this, you should be able to with enough know-how. Hell, even improve it, fuck it, come one come all with the open source nature of it. lol
